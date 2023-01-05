@@ -10,7 +10,7 @@ canvas.width = 130;
 
 const images = {};
 images.player = new Image();
-images.player.src = "/images/calavera.png";
+images.player.src = "images/calavera.png";
 images.player.actions = [7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 6, 6, 6, 6, 13, 13, 13, 13, 6];
 
 const playerWidth = 64;
